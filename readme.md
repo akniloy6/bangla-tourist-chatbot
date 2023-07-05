@@ -1,4 +1,4 @@
-#Bangla Tourist Chatbot
+# Bangla Tourist Chatbot
 
 This is a demo chatbot project that uses some predefined question answer scheme to answer tourism related questions for tourist visiting in Bangladesh.
 Built with Tensorflow Keras and NLTK. This will be updated periodically with LLM models and better dataset.
